@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    graphql (1.9.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  graphql (~> 1.9)
+
+BUNDLED WITH
+   1.16.1
